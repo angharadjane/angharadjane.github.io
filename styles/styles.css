@@ -13,6 +13,14 @@
 	margin-left: 25px;
 	color: orange;
 }
+
+.blog:hover {
+	font-size: 30px;
+}
+
+.linkedin:hover {
+	font-size: 30px;
+}
 .card {
 	background-color: lightgrey;
 	margin-top: 10px
@@ -36,3 +44,4 @@ ul {
 	list-style: none;
 	padding-left: 0px;
 }
+
